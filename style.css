@@ -1,0 +1,29 @@
+#cake img {
+    max-width:100%;
+    width:300px;
+    margin-top:50px;
+    object-fit: contain;
+}
+
+body {
+    font-size:17px;
+    text-align: justify, center;
+    font-family: "Poppins", sans-serif;
+    font-weight: 380;
+    font-style: normal;
+    background-color:#D3C5E5;
+}
+
+#title h1 {
+    text-align: center;
+}
+
+#img2 img {
+    max-width:100%;
+    width:300px;
+    object-fit: contain;
+}
+
+.phrase h3 {
+    text-align:center;
+}
